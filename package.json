@@ -34,7 +34,7 @@
     "jsonwebtoken": "^7.2.1",
     "lodash.get": "^4.4.2",
     "node-hid": "^1.2.0",
-    "serialport": "^6.2.2",
+    "serialport": "^9.0.7",
     "socket.io-client": "^1.7.2",
     "vorpal": "^1.11.4"
   }
